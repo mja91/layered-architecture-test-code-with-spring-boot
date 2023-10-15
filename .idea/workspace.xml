@@ -31,7 +31,9 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/nash/sourceCode/TestCodePractice/test-code-with-layered-architecture/test-code-with-layered-architecture"
+    "last_opened_file_path": "/Users/nash/sourceCode/TestCodePractice/test-code-with-layered-architecture/test-code-with-layered-architecture",
+    "nodejs_package_manager_path": "npm",
+    "spring.configuration.checksum": "8eb0b87c4cad7cde307362671bcfad23"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -43,8 +45,12 @@
       <option name="presentableId" value="Default" />
       <updated>1697355561036</updated>
       <workItem from="1697355562474" duration="5000" />
+      <workItem from="1697355580743" duration="356000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
